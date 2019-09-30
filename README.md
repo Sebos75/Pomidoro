@@ -1,2 +1,2 @@
 # Pomidoro
-Arduino Timer for Pomodoro Method
+Arduino Timer for Pomidoro Method
